@@ -125,9 +125,9 @@ header .menu a:hover {
   border-radius: 2%;
   margin-left: 380px;
 }
-@media (max-width: 600px) {
+@media (max-width: 720px) {
   .card1 {
-    margin-left: 100px;
+    margin-left: 10px;
   }
 }
 .foto1 img {
