@@ -66,6 +66,7 @@ header .menu a:hover {
   color: white;
   min-height: 500px;
   font-family: 'Moonserrat', sans-serif;
+  background-repeat: no-repeat;
 }
 .home .max-width {
   margin: auto 0 auto 40px;
@@ -123,6 +124,11 @@ header .menu a:hover {
   width: 350px;
   border-radius: 2%;
   margin-left: 380px;
+}
+@media (max-width: 600px) {
+  .card1 {
+    margin-left: 100px;
+  }
 }
 .foto1 img {
   position: relative;
