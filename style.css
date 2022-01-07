@@ -125,7 +125,7 @@ header .menu a:hover {
   border-radius: 2%;
   margin-left: 380px;
 }
-@media (max-width: 720px) {
+@media (max-width: 724px) {
   .card1 {
     margin-left: 10px;
   }
